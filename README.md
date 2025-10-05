@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I recently worked on a Flutter/Firebase project for my dissertation which will be used for inventory management and invoice tracking<br>👯 I’m looking to collaborate on web development projects<br>🤝 I’m looking for help with backend services and API development not limited to and including database config and management<br>🌱 I’m currently learning and revising upon DSA and prepping for my upcoming coding interviews<br>💬 Ask me about anything related to backend development and API, database management<br>⚡ Fun fact I am a student at Queen Mary University of London pursuing Computer Systems Engineering<br>🦊I have a year of experience working in the industry as a backend development engineer at furious fox ltd.<br> 🌌I have interned at the East London charity Mind as a software engineering intern
+🔭 I recently developed **HireSphere**, a full-stack recruitment and job management platform built with **Next.js 15**, **TypeScript**, and **PostgreSQL**, featuring real-time search and dynamic filtering.  
+👯 I’m looking to collaborate on **web and full-stack development** projects.  
+🤝 I’m seeking opportunities to deepen my expertise in **backend engineering**, particularly in **API design**, **database management**, and **scalable cloud systems**.  
+🌱 I’m currently enhancing my **Data Structures & Algorithms** skills and preparing for upcoming **software engineering interviews**.  
+💬 Ask me about anything related to **backend architecture**, **API development**, or **database optimization**.  
+⚡ Fun fact: I’m pursuing **Computer Systems Engineering** at **Queen Mary University of London**.  
+🦊 I have **1 year of industry experience** as a **Backend Development Engineer** at **Furious Fox Ltd**, and  
+🌌 previously interned as a **Software Engineering Intern** at **Mind (East London Charity)**, contributing to impactful tech solutions.  
 
 
 ## 🌐 Socials:
