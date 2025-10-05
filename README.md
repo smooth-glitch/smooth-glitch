@@ -1,12 +1,12 @@
 # 💫 About Me:
 🔭 I recently developed **HireSphere**, a full-stack recruitment and job management platform built with **Next.js 15**, **TypeScript**, and **PostgreSQL**, featuring real-time search and dynamic filtering.  
-👯 I’m looking to collaborate on **web and full-stack development** projects.  
-🤝 I’m seeking opportunities to deepen my expertise in **backend engineering**, particularly in **API design**, **database management**, and **scalable cloud systems**.  
-🌱 I’m currently enhancing my **Data Structures & Algorithms** skills and preparing for upcoming **software engineering interviews**.  
-💬 Ask me about anything related to **backend architecture**, **API development**, or **database optimization**.  
-⚡ Fun fact: I’m pursuing **Computer Systems Engineering** at **Queen Mary University of London**.  
+👯 I’m looking to collaborate on projects across **web development**, **AI**, and **data science**, combining intelligent automation with scalable backend systems.  
+🤝 I’m seeking opportunities to deepen my expertise in **backend engineering**, **machine learning pipelines**, and **data-driven product development**.  
+🌱 I’m currently enhancing my skills in **Data Structures & Algorithms**, **Python for ML**, and **MLOps fundamentals**, while preparing for upcoming **software and data engineering interviews**.  
+💬 Ask me about anything related to **backend architecture**, **API development**, **data processing**, or **machine learning integration**.  
+⚡ Fun fact: I’m pursuing **Computer Systems Engineering** at **Queen Mary University of London**, blending software engineering with data analytics and AI systems.  
 🦊 I have **1 year of industry experience** as a **Backend Development Engineer** at **Furious Fox Ltd**, and  
-🌌 previously interned as a **Software Engineering Intern** at **Mind (East London Charity)**, contributing to impactful tech solutions.  
+🌌 previously interned as a **Software Engineering Intern** at **Mind (East London Charity)**, contributing to impactful software and AI-driven community tech projects.  
 
 
 ## 🌐 Socials:
