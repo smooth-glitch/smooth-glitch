@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I recently developed **HireSphere**, a full-stack recruitment and job management platform built with **Next.js 15**, **TypeScript**, and **PostgreSQL**, featuring real-time search and dynamic filtering.  
+🧩 I recently built **ERP-DASHBOARD**, a modern **ERP-style admin dashboard** using **HTML**, **CSS**, **Vanilla JavaScript**, **Bootstrap 5**, and **Chart.js** — featuring multi-view navigation (Sales/Purchase/Assets/Reports/Settings), KPI cards with sparklines, smart filters, theme toggle (dark/light), and **CSV export** for transactions.
+🔭 I also developed **HireSphere**, a full-stack recruitment and job management platform built with **Next.js 15**, **TypeScript**, and **PostgreSQL**, featuring real-time search and dynamic filtering.  
 👯 I’m looking to collaborate on projects across **web development**, **AI**, and **data science**, combining intelligent automation with scalable backend systems.  
 🤝 I’m seeking opportunities to deepen my expertise in **backend engineering**, **machine learning pipelines**, and **data-driven product development**.  
 🌱 I’m currently enhancing my skills in **Data Structures & Algorithms**, **Python for ML**, and **MLOps fundamentals**, while preparing for upcoming **software and data engineering interviews**.  
