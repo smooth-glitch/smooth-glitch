@@ -1,4 +1,5 @@
 # 💫 About Me:
+💼 I’m currently working as a **Frontend Developer at Agile Labs (Axpert)**, contributing to enterprise-grade web experiences and dashboard-style interfaces on a US‑patented low-code / RAD platform that enables rapid application development and real-time insights.  
 🧩 I recently built **ERP-DASHBOARD**, a modern **ERP-style admin dashboard** using **HTML**, **CSS**, **Vanilla JavaScript**, **Bootstrap 5**, and **Chart.js**.
 🔭 I also developed **HireSphere**, a full-stack recruitment and job management platform built with **Next.js 15**, **TypeScript**, and **PostgreSQL**, featuring real-time search and dynamic filtering.  
 👯 I’m looking to collaborate on projects across **web development**, **AI**, and **data science**, combining intelligent automation with scalable backend systems.  
