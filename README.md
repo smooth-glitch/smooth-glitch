@@ -82,6 +82,7 @@ Here are some of my featured works 👇
 
 | Project | Description | Link |
 |----------|--------------|------|
+| **📊 ERP-DASHBOARD** | A modern, responsive ERP-style admin dashboard built with HTML, CSS, Vanilla JavaScript, Bootstrap 5, and Chart.js. Includes multi-view navigation (Sales/Purchase/Assets/Reports/Settings), KPI cards with sparklines, smart filters, theme toggle (dark/light), reduced-motion support, and CSV export for transactions. | [View Repo](https://github.com/smooth-glitch/ERP-DASHBOARD) |
 | **💼 HireSphere** | A modern, responsive full-stack **job demo portal** built with **Next.js 15**, **Mantine UI**, **PostgreSQL**, and **TypeScript**. Includes full CRUD functionality, real-time typeahead search, and dynamic job filtering for a seamless hiring experience. | [View Repo](https://github.com/smooth-glitch/HireSphere) |
 | **🌊 EdgeSense** | A predictive maintenance solution for IoT devices leveraging **Machine Learning (XGBoost)** to predict equipment failure using real sensor data. Includes feature engineering, data visualization, and a **Streamlit dashboard** for real-time monitoring. | [View Repo](https://github.com/smooth-glitch/EdgeSense) |
 | **📦 Invoyze** | A cross-platform **inventory management system** built with **Flutter** and **Firebase**, enabling barcode/QR scanning, real-time Firestore sync, PDF export, and multi-platform support (Android, iOS, Web, Windows, macOS, Linux). | [View Repo](https://github.com/smooth-glitch/Invoyze) |
