@@ -1,6 +1,6 @@
 # 💫 About Me:
 💼 I’m a **Developer at Agile Labs**, where I work across two products:  
-🚀 **Connectum**: a new enterprise platform, where I do **full-stack development** and **CI/CD**. This work is under NDA, so I can’t share product details or code, but I’m happy to talk about the engineering practices behind it: end-to-end feature delivery from UI through to API and database, and automated build, test and release pipelines.  
+🛜 **Connectum**: a new enterprise platform, where I do **full-stack development** and **CI/CD**. This work is under NDA, so I can’t share product details or code, but I’m happy to talk about the engineering practices behind it: end-to-end feature delivery from UI through to API and database, and automated build, test and release pipelines.  
 🧩 **Axpert**: a US-patented low-code / RAD platform, where I build enterprise dashboards, forms, an AI analytics chat interface and marketing UI. Screenshots and skills are in [axpert-showcase](https://github.com/smooth-glitch/axpert-showcase) and [AXI-AI-showcase](https://github.com/smooth-glitch/AXI-AI-showcase) (the source is proprietary).  
 🛠️ On the side I build things like **Ember** (a real-time chat app with an Erlang/OTP backend and a native SwiftUI client), **CineCircle** and **Spawn Point** (see below).  
 🔭 I also developed **HireSphere**, a full-stack recruitment and job management platform built with **Next.js 15**, **TypeScript**, and **PostgreSQL**, featuring real-time search and dynamic filtering.  
