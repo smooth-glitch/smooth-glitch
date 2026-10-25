@@ -1,6 +1,8 @@
 # 💫 About Me:
-💼 I’m currently working as a **Frontend Developer at Agile Labs (Axpert)**, contributing to enterprise-grade web experiences and dashboard-style interfaces on a US‑patented low-code / RAD platform that enables rapid application development and real-time insights.  
-🧩 I recently built **ERP-DASHBOARD**, a modern **ERP-style admin dashboard** using **HTML**, **CSS**, **Vanilla JavaScript**, **Bootstrap 5**, and **Chart.js**.
+💼 I’m a **Developer at Agile Labs**, where I work across two products:  
+🚀 **Connectum**: a new enterprise platform, where I work as a **full-stack engineer** and work on its **CI/CD**. This work is under NDA, so I can’t share product details or code, but I’m happy to talk about the engineering practices behind it: end-to-end feature delivery from UI through to API and database, and automated build, test and release pipelines.  
+🧩 **Axpert**: a US-patented low-code / RAD platform, where I build enterprise dashboards, forms, an AI analytics chat interface and marketing UI. Screenshots and skills are in [axpert-showcase](https://github.com/smooth-glitch/axpert-showcase) and [AXI-AI-showcase](https://github.com/smooth-glitch/AXI-AI-showcase) (the source is proprietary).  
+🛠️ On the side I build things like **Ember** (a real-time chat app with an Erlang/OTP backend and a native SwiftUI client), **CineCircle** and **Spawn Point** (see below).  
 🔭 I also developed **HireSphere**, a full-stack recruitment and job management platform built with **Next.js 15**, **TypeScript**, and **PostgreSQL**, featuring real-time search and dynamic filtering.  
 👯 I’m looking to collaborate on projects across **web development**, **AI**, and **data science**, combining intelligent automation with scalable backend systems.  
 🤝 I’m seeking opportunities to deepen my expertise in **backend engineering**, **machine learning pipelines**, and **data-driven product development**.  
@@ -84,6 +86,12 @@ Here are some of my featured works 👇
 
 | Project | Description | Link |
 |----------|--------------|------|
+| **🔒 Connectum** | New enterprise platform at Agile Labs, under NDA. My role: full-stack development and CI/CD. No code or screenshots published. | *Private* |
+| **🧩 Axpert (Agile Labs)** | Frontend work on a low-code enterprise platform: dashboards, forms, access-rights UIs and an AI analytics chat. Screenshots and skills only. | [View Showcase](https://github.com/smooth-glitch/axpert-showcase) · [AXI AI](https://github.com/smooth-glitch/AXI-AI-showcase) |
+| **🔥 Ember** | A WhatsApp-class chat app built from scratch: hand-rolled **Erlang/OTP** real-time backend, native **SwiftUI** iOS app and an installable web app. | [View Repo](https://github.com/smooth-glitch/ember-chat) |
+| **🎬 CineCircle** | Collaborative movie and TV discovery with shared pools, real-time syncing and user preferences, built with **Next.js** and **TypeScript**. | [View Repo](https://github.com/smooth-glitch/cinecircle-nextjs) |
+| **🎲 PickMe (Moviepicker)** | Movie-night helper built with **Tailwind + daisyUI**, **TMDB** and **Firebase**: filter a pool, share a room link and hit “Pick for me”. | [View Repo](https://github.com/smooth-glitch/Moviepicker) |
+| **⛏️ Spawn Point** | A Minecraft-themed developer portfolio in a single vanilla HTML/CSS/JS file, with no framework and no build step. | [Live](https://smooth-glitch.github.io/spawn-point/) · [Repo](https://github.com/smooth-glitch/spawn-point) |
 | **📊 ERP-DASHBOARD** | A modern, responsive ERP-style admin dashboard built with HTML, CSS, Vanilla JavaScript, Bootstrap 5, and Chart.js. Includes multi-view navigation (Sales/Purchase/Assets/Reports/Settings), KPI cards with sparklines, smart filters, theme toggle (dark/light), reduced-motion support, and CSV export for transactions. | [View Repo](https://github.com/smooth-glitch/ERP-DASHBOARD) |
 | **💼 HireSphere** | A modern, responsive full-stack **job demo portal** built with **Next.js 15**, **Mantine UI**, **PostgreSQL**, and **TypeScript**. Includes full CRUD functionality, real-time typeahead search, and dynamic job filtering for a seamless hiring experience. | [View Repo](https://github.com/smooth-glitch/HireSphere) |
 | **🌊 EdgeSense** | A predictive maintenance solution for IoT devices leveraging **Machine Learning (XGBoost)** to predict equipment failure using real sensor data. Includes feature engineering, data visualization, and a **Streamlit dashboard** for real-time monitoring. | [View Repo](https://github.com/smooth-glitch/EdgeSense) |
@@ -91,6 +99,7 @@ Here are some of my featured works 👇
 | **🧬 ExBranchNet** | A **deep learning project** implementing a custom **Convolutional Neural Network (CNN)** for CIFAR-10 image classification. Features expert branching architectures, data augmentation, visualized training curves, and model checkpointing for experimentation. | [View Repo](https://github.com/smooth-glitch/ExBranchNet) |
 | **🎨 PixelForge** | A Java-based desktop **image processing suite** supporting advanced operations like convolution filters, histogram equalization, color transformations, and automated thresholding — ideal for image analysis experimentation. | [View Repo](https://github.com/smooth-glitch/PixelForge) |
 | **⚽ CharltonFC** | A **data science and ML-powered analytics project** analyzing football player statistics using **Random Forest** and **K-Means** for performance scoring and visualization. Includes robust data cleaning, transformation, and metric generation pipelines. | [View Repo](https://github.com/smooth-glitch/charltonFC) |
+| **📚 Library Management UI** | Member dashboard with **Highcharts** catalogue-availability insights, a support-request form via **EmailJS** and a responsive layout. | [View Repo](https://github.com/smooth-glitch/Library-Management) |
 
 ---
 
@@ -99,16 +108,6 @@ Here are some of my featured works 👇
 ![](https://github-readme-streak-stats.herokuapp.com/?user=smooth-glitch&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smooth-glitch&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=smooth-glitch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=smooth-glitch&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=smooth-glitch&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
